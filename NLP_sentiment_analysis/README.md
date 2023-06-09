@@ -1,4 +1,4 @@
-# EDA analysis games dataset
+# NLP sentiment analysis
 
 Результат:
 - [Jupyter_notebook](https://github.com/dmakhazen/portfolio/tree/main/NLP_sentiment_analysis/NLP_BERT_sentiment_analysis.ipynb)
