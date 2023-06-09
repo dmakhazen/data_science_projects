@@ -1,7 +1,8 @@
 # EDA analysis games dataset
 
-[Jupyter_notebook](https://github.com/dmakhazen/portfolio/tree/main/EDA_games/computer_games_EDA.ipynb)
-[HTML](https://github.com/dmakhazen/portfolio/tree/main/EDA_games/EDA_games.html)
+Результат:
+- [Jupyter_notebook](https://github.com/dmakhazen/portfolio/tree/main/EDA_games/computer_games_EDA.ipynb)
+- [PDF](https://github.com/dmakhazen/portfolio/tree/main/EDA_games/computer_games_EDA.pdf)
 
 ## Описание проекта
 
