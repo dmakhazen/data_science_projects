@@ -3,6 +3,7 @@
 Результат:
 - [Jupyter_notebook](https://github.com/dmakhazen/portfolio/tree/main/EDA_games/computer_games_EDA.ipynb)
 - [PDF](https://github.com/dmakhazen/portfolio/tree/main/EDA_games/computer_games_EDA.pdf)
+- [Google Colab](https://colab.research.google.com/github/dmakhazen/portfolio/blob/main/EDA_games/computer_games_EDA.ipynb)
 
 ## Описание проекта
 
