@@ -2,8 +2,8 @@
 
 Результат:
 - [Jupyter_notebook](https://github.com/dmakhazen/portfolio/tree/main/movies_revenue_prediction/movies_revenue_prediction.ipynb)
-- [Colab]()
-- [Графический абстракт (результаты)]()
+- [Colab](https://colab.research.google.com/drive/1IK7JxBWnqFWykG2_5swYKwAf6pioSXK2?usp=sharing)
+- [Графический абстракт (результаты)](https://github.com/dmakhazen/portfolio/tree/main/movies_revenue_prediction/ML movies.png)
 
 ## Описание проекта
 
