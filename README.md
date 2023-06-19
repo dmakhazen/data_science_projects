@@ -6,7 +6,7 @@
 
 Общее количество проектов 10+, остальные находятся в стадии оформления.
 
-А еще есть мини-игра [Breakout!](https://codeinplace.stanford.edu/cip3/share/HxMNul1cmaTTNyLUXD6Y)
+А еще есть мини-игра [Breakout!](https://codeinplace.stanford.edu/cip3/share/HxMNul1cmaTTNyLUXD6Y)[.](https://codeinplace.stanford.edu/cip3/share/M3fZDX4z8CeNFPEtVQk7)
 
 | #    | Имя проекта                | Описание                                                         | Стек                                                          |
 | ---- | --------------------------- | --------------------------------------------------------------- | ------------------------------------------------------------- |
