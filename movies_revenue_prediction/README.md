@@ -1,3 +1,6 @@
+<p><img style="float:right; margin:20px; padding:20px; max-height:200px" src="https://as2.ftcdn.net/v2/jpg/03/08/02/45/1000_F_308024548_kMQJ3FWfmUX2djOl9tAYCYeToAs97o6h.jpg"></p>
+<p style="text-align:justify;">
+
 # Movies revenue prediction
 
 Результат:
