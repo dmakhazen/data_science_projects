@@ -1,8 +1,10 @@
+![image](https://github.com/dmakhazen/portfolio/assets/107398428/850dd956-fa69-42d6-96aa-425ed0e0ceeb)
+
 # EDA analysis games dataset
 
 Результат:
 - [Jupyter_notebook](https://github.com/dmakhazen/portfolio/tree/main/EDA_games/computer_games_EDA.ipynb)
-- [PDF](https://github.com/dmakhazen/portfolio/tree/main/EDA_games/computer_games_EDA.pdf)
+- [Код в PDF](https://github.com/dmakhazen/portfolio/tree/main/EDA_games/computer_games_EDA.pdf)
 - [Google Colab](https://colab.research.google.com/github/dmakhazen/portfolio/blob/main/EDA_games/computer_games_EDA.ipynb)
 
 ## Описание проекта
