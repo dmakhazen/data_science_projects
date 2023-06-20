@@ -2,7 +2,7 @@
 
 Результат:
 - [Jupyter_notebook](https://github.com/dmakhazen/portfolio/tree/main/NLP_sentiment_analysis/NLP_BERT_sentiment_analysis.ipynb)
-- [PDF](https://github.com/dmakhazen/portfolio/tree/main/NLP_sentiment_analysis/NLP_BERT_sentiment_analysis.pdf)
+- [Код в PDF](https://github.com/dmakhazen/portfolio/tree/main/NLP_sentiment_analysis/NLP_BERT_sentiment_analysis.pdf)
 
 ## Описание проекта
 
