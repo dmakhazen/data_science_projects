@@ -14,3 +14,4 @@
 | 2.   | [Taxi orders prediction](https://github.com/dmakhazen/portfolio/tree/main/taxi_orders_prediction)  | Предсказание заказов такси во временном ряду при помощи различных моделей ML | python, pandas, matplotlib, numpy, statsmodels, sklearn, gradient boosting |
 | 3.   | [EDA analysis games dataset](https://github.com/dmakhazen/portfolio/tree/main/EDA_games) | Исследовательский анализ данных о продажах комьютерных игр в различных регонах, качественная визуализация результатов | python, pandas, matplotlib, seaborn, scipy |
 | 4.   | [Movie revenue prediction](https://github.com/dmakhazen/portfolio/tree/main/movies_revenue_prediction) | Создание модели для предсказания выручки с проката фильмов | python, pandas, matplotlib, seaborn, sklearn, catboost |
+| 5.   | [Bank customer churn](https://github.com/dmakhazen/portfolio/tree/main/bank_customer_churn) | Создание модели для предсказания оттока клиентов из банка | python, pandas, sklearn |
