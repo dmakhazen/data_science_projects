@@ -1,3 +1,6 @@
+![image](https://github.com/dmakhazen/portfolio/assets/107398428/9b7520d4-4f85-4085-9197-4679bee69eb8)
+
+
 # NLP sentiment analysis
 
 Результат:
