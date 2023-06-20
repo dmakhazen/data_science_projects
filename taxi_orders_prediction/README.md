@@ -1,3 +1,6 @@
+![txi-1](https://github.com/dmakhazen/portfolio/assets/107398428/5d030ce8-270f-42fe-984f-6c9f6d3fde2b)
+
+
 # Taxi orders time series prediction
 
 Результат:
