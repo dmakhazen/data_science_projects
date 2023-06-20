@@ -1,3 +1,5 @@
+![movie_linreg](https://github.com/dmakhazen/portfolio/assets/107398428/13c4a79a-22fc-40b8-898a-d79d3ee5cf4d)
+
 # Movies revenue prediction
 
 Результат:
