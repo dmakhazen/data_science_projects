@@ -1,3 +1,4 @@
+![image](https://github.com/dmakhazen/portfolio/assets/107398428/db64c2cd-b2ed-4140-b89f-0472fc2bcfbd)
 
 
 # Bank customer churn
