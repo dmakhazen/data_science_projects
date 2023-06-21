@@ -1,3 +1,4 @@
+![legol](https://github.com/dmakhazen/portfolio/assets/107398428/f5eb864c-b519-4d57-bf9d-4b67066ef33e)
 
 
 # Computer vision age prediction
