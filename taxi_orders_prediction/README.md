@@ -5,7 +5,6 @@
 
 Результат:
 - [Jupyter_notebook](https://github.com/dmakhazen/portfolio/tree/main/taxi_orders_prediction/time_series_taxi_prediction.ipynb)
-- [Код в PDF](https://github.com/dmakhazen/portfolio/tree/main/taxi_orders_prediction/time_series_taxi_prediction.pdf)
 
 ## Описание проекта
 
