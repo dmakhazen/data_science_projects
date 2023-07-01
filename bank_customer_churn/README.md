@@ -38,7 +38,7 @@
 
 **Модель**
 
-- Модель построена на основе RandomForestClassifier
+- Обучил итоговую модель на основе RandomForestClassifier
 - Метрики модели
   1. **F1 = 0.6124**
   2. accuracy = 0.8285
