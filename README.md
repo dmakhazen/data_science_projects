@@ -17,6 +17,6 @@
 | 5.   | [Bank customer churn](https://github.com/dmakhazen/portfolio/tree/main/bank_customer_churn#readme) | Создание модели для предсказания оттока клиентов из банка | python, pandas, sklearn |
 | 6.   | [CV age prediction](https://github.com/dmakhazen/portfolio/tree/main/CV_age_prediction#readme) | Определение возраста по фотографии | python, pandas, keras, ResNet |
 | 7.   | [Oil location profit prediction](https://github.com/dmakhazen/portfolio/tree/main/oil_location_profit_prediction#readme) | Поиск наиболее прибыльного региона для нефтедобычи | python, pandas, sklearn, matplotlib |
-| 8.   | [Car price prediction](https://github.com/dmakhazen/portfolio/tree/main/car_price_prediction#readme) | Оценка цены автомоболиля при помощи ML модели | python, pandas, sklearn, catboost, lightgbm |
+| 8.   | [Car price prediction](https://github.com/dmakhazen/portfolio/tree/main/car_price_prediction#readme) | Оценка цены автомобиля при помощи ML модели | python, pandas, sklearn, catboost, lightgbm |
 | 9.   | [Ore recovery prediction](https://github.com/dmakhazen/portfolio/tree/main/ore_recovery_prediction#readme) | Создание модели ML для оценки коэффициента востановление золота из руды | python, pandas, sklearn, matplotlib, seaborn |
 | 10.   | [Steelmaking temp prediction](https://github.com/dmakhazen/portfolio/tree/main/steelmaking#readme) | Предсказание температуры сплава в литьевом ковше | python, pandas, sklearn, matplotlib, seaborn, optuna, shap |
