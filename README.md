@@ -21,4 +21,4 @@
 | 8.   | [Car price prediction](https://github.com/dmakhazen/portfolio/tree/main/car_price_prediction#readme) | Оценка цены автомобиля при помощи ML модели | python, pandas, sklearn, catboost, lightgbm |
 | 9.   | [Ore recovery prediction](https://github.com/dmakhazen/portfolio/tree/main/ore_recovery_prediction#readme) | Создание модели ML для оценки коэффициента востановление золота из руды | python, pandas, sklearn, matplotlib, seaborn |
 | 10.   | [Steelmaking temp prediction](https://github.com/dmakhazen/portfolio/tree/main/steelmaking#readme) | Предсказание температуры сплава в литьевом ковше | python, pandas, sklearn, matplotlib, seaborn, optuna, shap |
-| 11.   | [Realty prices Magnitigorsk]((https://github.com/dmakhazen/realty_ds/tree/main) | Предсказание и анализ цен на недвижимость в городе Магнитороск | python, pandas, sklearn, matplotlib, flask, Rest API, optuna, shap |
+| 11.   | [Realty prices Magnitigorsk](https://github.com/dmakhazen/realty_ds/tree/main) | Предсказание и анализ цен на недвижимость в городе Магнитороск | python, pandas, sklearn, matplotlib, flask, Rest API, optuna, shap |
