@@ -5,7 +5,7 @@
 Избранные проекты:
 - [Создание модели для предсказания выручки с проката фильмов](https://github.com/dmakhazen/portfolio/tree/main/movies_revenue_prediction), наиболее интересныq с точки зрения инженерии признаков, в нем не работали решения вроде "закодировать все признаки". На странице проекта есть графический абстракт, в котором можно увидеть логику работы и характеристики модели.
 - [Предсказание температуры сплава в литьевом ковше](https://github.com/dmakhazen/portfolio/tree/main/steelmaking#readme). В этом проекте понадобилось вникнуть в основы процесса происходящего в литейном ковше, использовать данные из разных источников, а также я воспользовался optuna для подбора гиперпараметров и shap для анализа итоговой модели.
-- [Realty prices Magnitigorsk]((https://github.com/dmakhazen/realty_ds/tree/main) - наиболее полный проект с точки зрения задачи. В проекте был сделан парсер для сбора данных, база данных, модель, flask приложение с REST API для доступа к модели.
+- [Realty prices Magnitigorsk](https://github.com/dmakhazen/realty_ds/tree/main) - наиболее полный проект с точки зрения задачи. В проекте был сделан парсер для сбора данных, база данных, модель, flask приложение с REST API для доступа к модели.
 
 А еще есть мини-игра [Breakout!](https://codeinplace.stanford.edu/cip3/share/HxMNul1cmaTTNyLUXD6Y)[.](https://codeinplace.stanford.edu/cip3/share/M3fZDX4z8CeNFPEtVQk7)
 
